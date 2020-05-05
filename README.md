@@ -47,6 +47,7 @@ Code version - v1.0
 
 * **Jitin Pavithran** - [jitpavi](https://github.com/jitpavi)
 
-## Acknowledgments
+## Acknowledgments and References
 
 * https://www.tomtom.com/
+* https://towardsdatascience.com/scraping-live-traffic-data-in-3-lines-of-code-step-by-step-9b2cc7ddf31f
