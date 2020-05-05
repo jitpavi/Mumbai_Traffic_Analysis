@@ -41,7 +41,7 @@ The purpose of this project is to visualise the traffic data of Mumbai city in l
 6. Using Seaborn create a HeatMap object and import the grouby data as the input
 
 ## Expected Output:
-* [Traffic_HeatMap.jpg](https://github.com/jitpavi/Mumbai_Traffic_Analysis/blob/master/Traffic_HeatMap.jpg)
+ ![Traffic_HeatMap](https://github.com/jitpavi/Mumbai_Traffic_Analysis/blob/master/Traffic_HeatMap.jpg)
 
 ## Featured Notebooks/Analysis/Deliverables
 * [Mum-Traffic_Analysisv1.0.py](https://github.com/jitpavi/Mumbai_Traffic_Analysis/blob/master/Mum-Traffic_Analysisv1.0.py)
