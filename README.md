@@ -38,7 +38,7 @@ The purpose of this project is to visualise the traffic data of Mumbai city in l
 5. Follow setup [instructions](Link to file)
 
 ## Expected Output
-* [Mum-Traffic_Analysisv1.0.py](https://github.com/jitpavi/Mumbai_Traffic_Analysis/blob/master/Mum-Traffic_Analysisv1.0.py)
+* [Traffic_HeatMap.jpg](https://github.com/jitpavi/Mumbai_Traffic_Analysis/blob/master/Traffic_HeatMap.jpg)
 
 ## Featured Notebooks/Analysis/Deliverables
 * [Mum-Traffic_Analysisv1.0.py](https://github.com/jitpavi/Mumbai_Traffic_Analysis/blob/master/Mum-Traffic_Analysisv1.0.py)
