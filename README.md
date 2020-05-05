@@ -21,21 +21,18 @@ The purpose of this project is to visualise the traffic data of Mumbai city in l
 * Seaborn 
 
 ## Project Description
-(Provide more detailed overview of the project.  Talk a bit about your data sources and what questions and hypothesis you are exploring. What specific data analysis/visualization and modelling work are you using to solve the problem? What blockers and challenges are you facing?  Feel free to number or bullet point things here)
 
-## Getting Started
+### Prerequisites
+* API for accessing data from TomTom website(https://api.midway.tomtom.com/ranking/live/IND_mumbai)
+* Importing importatn python libraries like Pandas,Matplotlib and Seaborn
 
-1. Clone this repo (for help see this [tutorial](https://help.github.com/articles/cloning-a-repository/)).
-2. Raw Data is being kept [here](Repo folder containing raw data) within this repo.
-
-    *If using offline data mention that and how they may obtain the data from the froup)*
-    
-3. Data processing/transformation scripts are being kept [here](Repo folder containing data processing scripts/notebooks)
-4. etc...
-
-*If your project is well underway and setup is fairly complicated (ie. requires installation of many packages) create another "setup.md" file and link to it here*  
-
-5. Follow setup [instructions](Link to file)
+### Workflow
+1. Using request module download the data for the city Mumbai.
+2. Convert the response data into JSON obejct.
+3. Create a Dataframe using Pandas from the JSON object.
+4. Derive a resultant column using other columns including Traffic index Live, JamsDelay,Jamscount and JamsLength.
+5. Create a Pandas grouby object using Weekday and Hour colum and perform unstack to give a look of pivot table.
+6. Using Seaborn create a HeatMap object and import the grouby data as the input
 
 ## Expected Output
 * [Traffic_HeatMap.jpg](https://github.com/jitpavi/Mumbai_Traffic_Analysis/blob/master/Traffic_HeatMap.jpg)
@@ -52,4 +49,4 @@ Code version - v1.0
 
 ## Acknowledgments
 
-* 
+* https://www.tomtom.com/
