@@ -1,8 +1,8 @@
 # Project Name
-Traffic Analysis of Mumbai City in last 7 Days
+## Traffic Analysis of Mumbai City in last 7 Days
 
-#### -- Project Status: [Active, On-Hold, Completed]
-It is still in Active mode exploring the predictive modelling concepts.
+#### -- Project Status: [Active]
+It is still in Active mode as i am trying to explore the concepts of applying predictive modelling in this project.
 
 ## Project Intro/Objective
 The purpose of this project is to visualise the traffic data of Mumbai city in last 7 days for every hour in the form of a visualisation heatmap chart.
@@ -37,8 +37,11 @@ The purpose of this project is to visualise the traffic data of Mumbai city in l
 
 5. Follow setup [instructions](Link to file)
 
+## Expected Output
+* [Mum-Traffic_Analysisv1.0.py](https://github.com/jitpavi/Mumbai_Traffic_Analysis/blob/master/Mum-Traffic_Analysisv1.0.py)
+
 ## Featured Notebooks/Analysis/Deliverables
-* [Notebook/Markdown/Slide Deck Title](link)
+* [Mum-Traffic_Analysisv1.0.py](https://github.com/jitpavi/Mumbai_Traffic_Analysis/blob/master/Mum-Traffic_Analysisv1.0.py)
 
 ## Versioning
 Code version - v1.0
